@@ -1,4 +1,3 @@
 First step
 this is Dev
 Given that you have already committed your file, then if you do “git pull” automatic merge fails.
-Undo Test
