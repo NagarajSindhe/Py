@@ -1,4 +1,6 @@
 First step
 this is Dev
 Given that you have already committed your file, then if you do “git pull” automatic merge fails.
-Now your team partner is now already working on the same project and he has made some changes into it. So we have two copies of the code.
+Ignore Test
+on your colleague machine with some latest changes.
+https://github.com/NagarajSindhe/Py.git
